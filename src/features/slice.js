@@ -9,7 +9,6 @@ const counterSlice = createSlice({
     initialState,
     reducers: {
         ReduxInput: (state, action) => {
-
         },
 
     },
