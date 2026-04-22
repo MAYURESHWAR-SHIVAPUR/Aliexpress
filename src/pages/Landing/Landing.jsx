@@ -13,7 +13,7 @@ const Landing = () => {
       <HeroContent />
       <div className=''>
         <h4 className='text-2xl font-bold p-5'>More to love</h4>
-        <div className='w-screen px-15 mb-10 flex flex-wrap items-center gap-5 justify-between overflow-x-scroll'>
+        <div className='w-screen md:px-15 md:mb-10 flex flex-wrap items-center gap-5 justify-between overflow-x-hidden px-5'>
           <Product />
           <Product />
           <Product />
