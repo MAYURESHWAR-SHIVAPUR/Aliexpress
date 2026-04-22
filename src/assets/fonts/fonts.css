@@ -1,0 +1,41 @@
+@font-face {
+  font-family: 'Poppins-Regular';
+  src: url('./Poppins/Poppins-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Poppins-Bold';
+  src: url('./Poppins/Poppins-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+    font-family: 'Jaro';
+    src: url('./Jaro/static/Jaro-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Goldman';
+    src: url('./Goldman/Goldman-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Ultra';
+    src: url('./Ultra/Ultra-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Zen-Dots';
+    src: url("./Zen_Dots/ZenDots-Regular.ttf") format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}

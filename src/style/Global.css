@@ -1,1 +1,41 @@
 @import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css");
+/* global.css */
+@import '../assets//fonts//fonts.css';
+
+body {
+  font-family: 'Poppins-Regular', sans-serif;
+}
+
+.Poppins-Regular {
+  font-family: 'Poppins-Regular', sans-serif;
+}
+
+.Poppins-Bold {
+  font-family: 'Poppins-Bold', sans-serif;
+}
+
+.Jaro {
+  font-family: 'Jaro', sans-serif;
+}
+
+
+.Jaro {
+  font-family: 'Jaro', sans-serif;
+}
+
+
+.Goldman {
+  font-family: 'Goldman', sans-serif;
+}
+
+.Ultra {
+  font-family: 'Ultra', sans-serif;
+}
+
+.Zen-Dots {
+  font-family: 'Zen-Dots', sans-serif;
+}
+
+.text-shadow-lg {
+  text-shadow: 9px 6px 14px #000;
+}
